@@ -22,11 +22,13 @@ git pull origin master
 - 后来发现了一个VS Code的插件Git Easy，增加了VS Code中自带的git操作。可以直接在扩展中搜索安装，安装后按F1调出控制台。输入git remote 就可以直接使用命令，然后按照要求驶入名称和url就可以在VS Code中完成。
 - 最后在git中选择发布就可以将文件push到Github。
 
+
 ## 后记
 
 > 在查找部分资料的时候发现很多人都不太喜欢VS Code的界面，有很多关于Markdown的优化文章。以后可以尝试以下,卡里斯玛的[用VS Code打造最佳Markdown编辑器](http://www.jianshu.com/p/18876655b452)。
 
 > 其实这篇文章写好的时候任务5的主要任务并没有完成，待会后在后面补充上简历的地址。
+
 
 
 
